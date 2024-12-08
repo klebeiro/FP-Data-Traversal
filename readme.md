@@ -1,5 +1,5 @@
 ## Description
-The purpose of this code is traverse a list of library stuff like books, articles, etc. We have a function to show every element of the list and functions to filter and show only the specific stuff, for example: show only books or show only materials published in a specific year.
+The purpose of this code is traverse a list of library things like books, articles, etc. There is a function to show every element of the list and functions to filter and show only the specific stuff, for example: show only books or show only materials published in a specific year.
 
 ## Concepts used in the code
 - High order functions
