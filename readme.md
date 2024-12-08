@@ -6,7 +6,7 @@ The purpose of this code is traverse a list of library stuff like books, article
 - Anonimous functions
 - Function composition
 - Recursion
-- Lists, classes and enhiretance
+- Lists, classes and inheritance
 - List comprehension
 - IO functions
 
